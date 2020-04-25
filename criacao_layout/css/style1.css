@@ -1,0 +1,29 @@
+body {
+    background-color: #33e04a;
+}
+
+header, nav, main {
+    background-color: aquamarine;
+    min-height: 10vh; /*Altura mínima */
+    margin: 2vh auto;
+}
+
+nav, main {
+    min-height: 82vh ;
+}
+
+@media (min-width: 576px){
+    
+}
+
+@media (min-width: 768px) {
+    
+}
+
+@media (min-width: 992px) {
+    
+}
+
+@media (min-width: 1200px){
+
+}
